@@ -1,7 +1,17 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=270&section=header&text=Sebastián%20Ardila&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Dream%20Big%20•%20Code%20Hard&descAlignY=68"
-    alt="Epic Dev Banner"
+    src="https://capsule-render.vercel.app/api?type=venom
+&color=0:020617,30:1e293b,60:0ea5e9,100:22d3ee
+&height=300
+&section=header
+&text=Sebastián%20Ardila
+&fontSize=52
+&fontColor=ffffff
+&animation=twinkling
+&fontAlignY=38
+&desc=Code%20•%20Logic%20•%20Anime%20⚽%20|%20Build%20Your%20Dream
+&descAlignY=65"
+    alt="Epic GitHub Banner"
   />
 </p>
 
