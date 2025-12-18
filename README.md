@@ -1,4 +1,5 @@
-![Banner](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Sebastián%20Ardila&fontSize=45&animation=twinkling&desc=Learning%20to%20Build%20Software&descAlignY=65)
+![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:1e3a8a,50:2563eb,100:dc2626&height=250&section=header&text=Sebastián%20Ardila&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Learning%20to%20Build%20Software%20⚽&descAlignY=65)
+
 
 
 # 👋 Hola, soy Sebastián Ardila
