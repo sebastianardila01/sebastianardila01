@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:f8fafc,50:e0f2fe,100:bae6fd&height=220&section=header&text=Sebastián%20Ardila&fontSize=40&fontColor=020617&animation=fadeIn&desc=ADSO%20Developer&descAlignY=65)
+![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:1e293b,100:334155&height=240&section=header&text=Sebastián%20Ardila&fontSize=42&fontColor=e5e7eb&animation=fadeIn&desc=Code%20•%20Logic%20•%20Anime&descAlignY=65)
 
 
 
