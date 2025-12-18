@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:e0f2fe,50:bae6fd,100:93c5fd&height=230&section=header&text=Sebastián%20Ardila&fontSize=42&fontColor=0f172a&animation=fadeIn&desc=Learning%20to%20Build%20Software&descAlignY=65)
+![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:f8fafc,50:e0f2fe,100:bae6fd&height=220&section=header&text=Sebastián%20Ardila&fontSize=40&fontColor=020617&animation=fadeIn&desc=ADSO%20Developer&descAlignY=65)
 
 
 
