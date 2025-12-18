@@ -1,19 +1,24 @@
-<h1 align="center">🐉 Sebastián Ardila 🐲</h1>
+<h1 align="center">
+  🐉 Sebastián Ardila 🐲
+</h1>
 
-<p align="center">Code • Logic • Anime ⚽</p>
+<h3 align="center">
+  Code • Logic • Volleyball 🏐
+</h3>
 
-🐉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐉
+<p align="center">
+  <i>Learning today, building tomorrow</i>
+</p>
 
-## 🚀 Sobre mí
-Aprendiz ADSO apasionado por el desarrollo de software y la lógica.
+<hr>
 
-🐲━━━━━━━━━━━━━━━🔥━━━━━━━━━━━━━━━🐲
+<p align="center">
+  🧠 ADSO &nbsp;•&nbsp;
+  💻 Software Development &nbsp;•&nbsp;
+  🏐 Discipline & Teamwork
+</p>
 
-## 🧱 Pila de Tecnología
-- Python
-- SQL
-- HTML
-- CSS
+<hr>
 
 
 
