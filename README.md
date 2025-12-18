@@ -1,4 +1,5 @@
-![Banner](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Sebastián%20Ardila&fontSize=48&animation=twinkling&fontAlignY=35&desc=Code%20•%20Data%20•%20Logic&descAlignY=60)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Sebastián%20Ardila&fontSize=42&fontColor=38bdf8&animation=fadeIn&desc=ADSO%20Developer&descAlignY=65)
+
 
 
 # 👋 Hola, soy Sebastián Ardila
