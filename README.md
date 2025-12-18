@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1d4ed8,100:38bdf8&height=250&section=header&text=Sebastián%20Ardila&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Code%20%7C%20Logic%20%7C%20Football&descAlignY=65)
+![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:e0f2fe,50:bae6fd,100:93c5fd&height=230&section=header&text=Sebastián%20Ardila&fontSize=42&fontColor=0f172a&animation=fadeIn&desc=Learning%20to%20Build%20Software&descAlignY=65)
 
 
 
