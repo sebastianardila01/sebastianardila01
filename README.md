@@ -1,19 +1,9 @@
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/sebastianardila01/sebastianardila01/main/banner-anime.png <img width="1536" height="1024" alt="ChatGPT Image 17 dic 2025, 20_05_23" src="https://github.com/user-attachments/assets/ff7cd6cb-e7f2-47d4-9ba8-8acdb467d7c3" />
-"
-    alt="Sebastián Ardila Banner"
-    width="100%"
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:e0f2fe,50:bae6fd,100:93c5fd&height=240&section=header&text=Sebastián%20Ardila&fontSize=44&fontColor=0f172a&animation=fadeIn&desc=Learning%20to%20Build%20Software&descAlignY=68"
+    alt="Anime Sky Banner"
   />
 </p>
-
-<h1 align="center">Sebastián Ardila</h1>
-
-<p align="center">
-  <b>Code • Logic • Anime ⚽</b><br>
-  Aprendiz ADSO | Desarrollo de Software
-</p>
-
 
 
 
