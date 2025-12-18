@@ -1,6 +1,7 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/sebastianardila01/sebastianardila01/main/banner-anime.png"
+    src="https://raw.githubusercontent.com/sebastianardila01/sebastianardila01/main/banner-anime.png <img width="1536" height="1024" alt="ChatGPT Image 17 dic 2025, 20_05_23" src="https://github.com/user-attachments/assets/ff7cd6cb-e7f2-47d4-9ba8-8acdb467d7c3" />
+"
     alt="Sebastián Ardila Banner"
     width="100%"
   />
