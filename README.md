@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/2yAfP6C.png" alt="Anime Night Banner" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=270&section=header&text=Sebastián%20Ardila&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Dream%20Big%20•%20Code%20Hard&descAlignY=65"
+    alt="Epic Anime Banner"
+  />
 </p>
-
-<h1 align="center">Sebastián Ardila</h1>
-<p align="center">
-  Learning to Build Software
-</p>
-
 
 
 
