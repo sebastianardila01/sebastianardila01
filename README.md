@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.imgur.com/9QZ6F6M.png" alt="Anime Banner" width="100%" />
+  <img src="https://i.imgur.com/2yAfP6C.png" alt="Anime Night Banner" width="100%" />
 </p>
 
 <h1 align="center">Sebastián Ardila</h1>
 <p align="center">
-  Code • Logic • Anime ⚽
+  Learning to Build Software
 </p>
 
 
