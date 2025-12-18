@@ -1,19 +1,25 @@
+<h1 align="center">
+  ⚡ Sebastián Ardila ⚡
+</h1>
+
+<h3 align="center">
+  Code • Logic • Anime ⚽
+</h3>
+
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom
-&color=0:020617,30:1e293b,60:0ea5e9,100:22d3ee
-&height=300
-&section=header
-&text=Sebastián%20Ardila
-&fontSize=52
-&fontColor=ffffff
-&animation=twinkling
-&fontAlignY=38
-&desc=Code%20•%20Logic%20•%20Anime%20⚽%20|%20Build%20Your%20Dream
-&descAlignY=65"
-    alt="Epic GitHub Banner"
-  />
+  <i>Learning today, building tomorrow</i>
 </p>
+
+<hr>
+
+<p align="center">
+  🧠 ADSO &nbsp;•&nbsp;
+  💻 Software Development &nbsp;•&nbsp;
+  🚀 Dream Builder
+</p>
+
+<hr>
+
 
 
 
