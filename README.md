@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy Sebastián Ardila
 
-<!--
-**sebastianardila01/sebastianardila01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aprendiz de **Análisis y Desarrollo de Software (ADSO)**  
+💻 Interesado en desarrollo web, programación lógica y bases de datos  
+📍 Colombia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+- HTML5, CSS3
+- Python
+- SQL / MySQL
+- PSeInt
+- Git & GitHub
+
+---
+
+## 📂 Proyectos destacados
+- 🎮 **Juegos en PSeInt** (lógica y estructuras)
+- 📊 **Análisis de datos – movilidad en Bogotá**
+- 🗄️ **Bases de datos ADSO**
+- 🌐 Prototipos web (HTML & CSS)
+
+---
+
+## 🎯 Objetivo profesional
+Seguir fortaleciendo mis habilidades técnicas y obtener una oportunidad de contrato empresarial para aplicar mis conocimientos en un entorno real.
+
+---
+
+📫 **Contacto:**  
+✉️ jaimisroa@gmail.com
+
