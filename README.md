@@ -1,9 +1,18 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=270&section=header&text=Sebastián%20Ardila&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Dream%20Big%20•%20Code%20Hard&descAlignY=65"
-    alt="Epic Anime Banner"
+    src="https://raw.githubusercontent.com/sebastianardila01/sebastianardila01/main/banner-anime.png"
+    alt="Sebastián Ardila Banner"
+    width="100%"
   />
 </p>
+
+<h1 align="center">Sebastián Ardila</h1>
+
+<p align="center">
+  <b>Code • Logic • Anime ⚽</b><br>
+  Aprendiz ADSO | Desarrollo de Software
+</p>
+
 
 
 
