@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:e0f2fe,50:bae6fd,100:93c5fd&height=240&section=header&text=Sebastián%20Ardila&fontSize=44&fontColor=0f172a&animation=fadeIn&desc=Learning%20to%20Build%20Software&descAlignY=68"
-    alt="Anime Sky Banner"
+    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=270&section=header&text=Sebastián%20Ardila&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Dream%20Big%20•%20Code%20Hard&descAlignY=68"
+    alt="Epic Dev Banner"
   />
 </p>
 
