@@ -1,26 +1,16 @@
 <h1 align="center">
-  🐉 Sebastián Ardila 🐲
+  🐲 Sebastián Ardila 🐲
 </h1>
 
-<h3 align="center">
-  Code • Logic • Volleyball 🏐
-</h3>
+<p align="center">
+  From Logic to Victory 🏐
+</p>
 
 <p align="center">
-  <i>Learning today, building tomorrow</i>
+  🧠 Think &nbsp;|&nbsp; 💻 Build &nbsp;|&nbsp; 🏐 Compete
 </p>
 
 <hr>
-
-<p align="center">
-  🧠 ADSO &nbsp;•&nbsp;
-  💻 Software Development &nbsp;•&nbsp;
-  🏐 Discipline & Teamwork
-</p>
-
-<hr>
-
-
 
 
 
