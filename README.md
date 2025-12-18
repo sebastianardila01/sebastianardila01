@@ -1,4 +1,11 @@
-![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:1e293b,100:334155&height=240&section=header&text=Sebastián%20Ardila&fontSize=42&fontColor=e5e7eb&animation=fadeIn&desc=Code%20•%20Logic%20•%20Anime&descAlignY=65)
+<p align="center">
+  <img src="https://i.imgur.com/9QZ6F6M.png" alt="Anime Banner" width="100%" />
+</p>
+
+<h1 align="center">Sebastián Ardila</h1>
+<p align="center">
+  Code • Logic • Anime ⚽
+</p>
 
 
 
