@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚡ Sebastián Ardila ⚡
+  🐉 Sebastián Ardila 🐲
 </h1>
 
 <h3 align="center">
