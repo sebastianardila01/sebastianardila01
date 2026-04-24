@@ -1,5 +1,5 @@
 <h1 align="center">
-  ![PlayingAracdeVideoGamesMordecaiGif (2)](https: //github.com/user-atachments/assets/ae185470-e1f9-446b-aece-ae379452aa96)
+
   🐲 Sebastián Ardila 🐲
 </h1>
 
