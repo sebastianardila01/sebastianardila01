@@ -1,6 +1,5 @@
 <p align="center">
-  
-![PlayingArcadeVideoGamesRigbyGIF (2)](https://github.com/user-attachments/assets/ae185470-e1f9-446b-aece-ae379452aa96)
+  <img width="400" height="300" alt="EliGIF" src="https://github.com/user-attachments/assets/bb0c39cd-cb3b-46f9-9e8c-b1b1d878fb1d" />
 
 </p>
 <h1 align="center">
