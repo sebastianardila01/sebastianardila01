@@ -1,6 +1,6 @@
 <p align="center">
   
-![PlayingArcadeVideoGamesMordecaiGIF (2)](https://github.com/user-attachments/assets/ae185470-e1f9-446b-aece-ae379452aa96)
+![PlayingArcadeVideoGamesRigbyGIF (2)](https://github.com/user-attachments/assets/ae185470-e1f9-446b-aece-ae379452aa96)
 
 </p>
 <h1 align="center">
